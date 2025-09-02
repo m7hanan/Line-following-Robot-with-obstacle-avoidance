@@ -13,13 +13,15 @@ It has two modes:
 - LEDs (Mode Indicators)
 - Push Buttons
 - 12V Battery
-- buck convertor
 
 ## Features
 ✅ Line following algorithm  
 ✅ Obstacle detection with ultrasonic  
 ✅ Mode switching using push buttons  
 ✅ Blinking LED indicator when obstacle detected  
+
+## Demo Video
+🎥 Watch on YouTube: [Line Follower + Obstacle Detection Robot Demo](https://youtu.be/BfAS1bsCjy8?si=ceyuHvanCR6PKe_F)
 
 ## How to Upload
 1. Connect ATmega328P with Arduino IDE
