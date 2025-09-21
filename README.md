@@ -1,6 +1,9 @@
 # Line Follower + Obstacle Detection Robot
 
-This project is built using **ATmega328P**, **L298N motor driver**, **IR sensors**, and **Ultrasonic sensor**.  
+![IMG-20250921-WA0001](https://github.com/user-attachments/assets/87022a03-3c29-48ad-8c34-bebf6d49ff48)
+
+This project
+ is built using **ATmega328P**, **L298N motor driver**, **IR sensors**, and **Ultrasonic sensor**.  
 It has two modes:
 - Mode 1: Line following only
 - Mode 2: Line following with obstacle detection and avoidance
